@@ -1,6 +1,6 @@
 # Laptop-Preisvorhersage — End-to-End ML Pipeline
 
-[![CI](https://github.com/<username>/<repo>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<repo>/actions/workflows/ci.yml)
+[![CI](https://github.com/cfric/ml-laptop-price-prediction/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<repo>/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![MLflow](https://img.shields.io/badge/MLflow-2.19-orange)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green)
