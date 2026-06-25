@@ -65,8 +65,8 @@ End-to-End ML-Projekt: Laptop-Preise per Web-Scraping erfassen, vier Regressions
 
 ```bash
 # 1 — Repository klonen
-git clone https://github.com/<username>/<repo>.git
-cd <repo>
+git clone https://github.com/cfric/ml-laptop-price-prediction.git
+cd ml-laptop-price-prediction
 
 # 2 — Umgebung einrichten (venv + Playwright-Browser)
 make setup

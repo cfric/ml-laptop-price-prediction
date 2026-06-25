@@ -19,7 +19,7 @@ __pycache__/
 
 # virtuelle Umgebungen
 .venv/
-venv/
+venv/git b
 env/
 
 # Build / Packaging

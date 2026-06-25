@@ -65,8 +65,8 @@ End-to-end ML project: collect laptop prices via web scraping, compare four regr
 
 ```bash
 # 1 — Clone the repository
-git clone https://github.com/<username>/<repo>.git
-cd <repo>
+git clone https://github.com/cfric/ml-laptop-price-prediction.git
+cd ml-laptop-price-prediction
 
 # 2 — Set up environment (venv + Playwright browser)
 make setup
