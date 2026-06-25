@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.idea/
+*.egg-info/
+logs/
+.git/
+.github/
+.claude/
+claude.md
+mlruns/
+mlartifacts/
+data/processed/
+README.md
+Makefile
